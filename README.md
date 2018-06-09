@@ -34,7 +34,7 @@ Features
 
     * On SIGINT/SIGTERM, transocks stops gracefully.
     * On SIGHUP, transocks restarts gracefully.
-
+  
 * Library and executable
 
     transocks comes with a handy executable.
